@@ -1,0 +1,51 @@
+vertex_id,label,class
+BND,Total Bond Index,bond
+DBC,Commodity Index,commodity
+DIA,DowJonesIndustrialAverage,stock
+DXJ,Japan Stocks (in JPY),stock
+EEM,Emerging Mks ,stock
+EFA,EAFE developed markets outside US&Canada,stock
+EMB,EMBI: Emerging Markets Bond Index,bond
+EPP,Asia ex Japan,stock
+EWG,Germany,stock
+EWI,Italy,stock
+EWJ,Japan,stock
+EWQ,France,stock
+EWU,UK,stock
+FXB,GBP,currency
+FXC,CAD,currency
+FXE,EUR,currency
+FXI,China Large Cap,currency
+FXY,JPY,currency
+GDX,Gold Miners,commodity
+GLD,Gold,commodity
+IYR,Real Estate,real estate
+JNK,Hi Yld Bnds,bond
+LQD,Corp Bonds,bond
+NKY,Nikkei 225,stock
+SLV,Silver,commodity
+SPY,S&P 500,stock
+TIP,TIPS,bond
+TLT,20Y+ Gov't,bond
+USO,Oil,commodity
+UUP,USD Index,currency
+VGK,Europe,stock
+VPL,Asia,fund
+VXX,VIX ST Futures,fund
+XIU,TSX 60,stock
+XLB,Materials,commodity
+XLE,Energy,commodity
+XLF,Financials,fund
+XLK,Tech,fund
+XLU,Utilities,fund
+CSJ,Barclays 1-3Y US,bond
+FXF,Swiss Franc Trust,commodity
+portfolio1,Aggressive,fund
+portfolio2,Balanced,fund
+QAI,Multistrat,fund
+WDTI,Managed Futures,fund
+RLY,Real Return,fund
+ALFA,Long/Short,fund
+MNA,Merger Arb,fund
+MCRO,Macro,fund
+QMN,Market Neutral,fund
